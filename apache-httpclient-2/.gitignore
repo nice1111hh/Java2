@@ -2,7 +2,7 @@
 
 #folders#
 /target
-/neoDb*
+/neoDb* 
 /data
 /src/main/webapp/WEB-INF/classes
 */META-INF/*
