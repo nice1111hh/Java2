@@ -3,7 +3,7 @@ package com.baeldung.akkahttp;
 public class User {
 
     private final Long id;
-
+ 
     private final String name;
 
     public User() {
