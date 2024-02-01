@@ -7,7 +7,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 class BreadthFirstSearchAlgorithmUnitTest {
 
     private Tree<Integer> root;
-    private Tree<Integer> rootFirstChild;
+    private Tree<Integer> rootFirstChild; 
     private Tree<Integer> depthMostChild;
     private Tree<Integer> rootSecondChild;
 
