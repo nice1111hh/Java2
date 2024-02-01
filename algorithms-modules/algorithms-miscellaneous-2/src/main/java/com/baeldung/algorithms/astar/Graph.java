@@ -5,7 +5,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 
-public class Graph<T extends GraphNode> {
+public class Graph<T extends GraphNode> { 
     private final Set<T> nodes;
 
     private final Map<String, Set<String>> connections;
